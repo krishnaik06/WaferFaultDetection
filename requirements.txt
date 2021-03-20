@@ -7,7 +7,7 @@ Flask-Cors==3.0.8
 importlib-metadata==1.4.0
 Flask-MonitoringDashboard==3.0.6
 itsdangerous==1.1.0
-Jinja2==2.11.0
+Jinja2==2.11.3
 joblib==0.14.1
 jsonschema==3.2.0
 kiwisolver==1.1.0
